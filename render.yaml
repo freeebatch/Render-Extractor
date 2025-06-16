@@ -7,7 +7,7 @@ services:
     startCommand: "python main_render.py"
     envVars:
       - key: PYTHON_VERSION
-        value: 3.10
+        value: 3.12.1
       - key: api_id
         value: "28021723"
       - key: api_hash
